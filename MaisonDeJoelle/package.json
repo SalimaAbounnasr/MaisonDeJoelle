@@ -1,0 +1,14 @@
+{
+  "name": "frontend-uiip",
+  "description": "frontend-uiip",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "less": "2.7.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
